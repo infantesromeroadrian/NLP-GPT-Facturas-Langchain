@@ -1,0 +1,41 @@
+<mxfile host="app.diagrams.net" modified="2024-02-08T23:30:19.081Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" version="23.1.1" etag="w90Lc3Rbk93Prsz2Ffbd" type="github">
+  <diagram name="Page-1" id="ixyPjh8LIY-uF1BW73nH">
+    <mxGraphModel>
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="Componentes y Tecnologías ProcesadorPDF" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="564" width="321" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="Función: Extrae el texto completo de un documento PDF" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry y="84" width="422" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="Tecnología: Utiliza PyPDF2 para leer y extraer texto de archivos PDF" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="472" y="84" width="506" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="Interacción: Recibe la ruta de un archivo PDF como entrada y devuelve el texto extraído" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1028" y="84" width="651" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="6" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.0014602803738317756;exitY=0.8859179358345664;entryX=0.5000740521327014;entryY=0;" edge="1" parent="1" source="2" target="3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="211" y="59" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5017279984423676;exitY=1;entryX=0.5001080780632411;entryY=0;" edge="1" parent="1" source="2" target="4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1.0019957165109035;exitY=0.8155395872776847;entryX=0.5003480222734255;entryY=0;" edge="1" parent="1" source="2" target="5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1354" y="59" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

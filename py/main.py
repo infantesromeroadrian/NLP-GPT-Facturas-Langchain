@@ -1,6 +1,13 @@
 # main.py
 
+import json
+import logging
+import time
 import os
+import openai
+import requests
+import sys
+from PyPDF2 import PdfReader
 from configuracion_logging import logging
 from procesador_pdf import ProcesadorPDF
 from separador_texto import SeparadorTexto
@@ -57,15 +64,40 @@ procesador_qa = ProcesadorQA(buscador)
 
 # Define tus consultas aquí
 consultas = [
-    "¿Cuál es el total de la factura?",
-    "¿Cuál es la empresa que emite la factura?",
-    "Haz un resumen completo de la factura."
+    "¿Cuál es el nombre del cliente?",
+    "¿Cuál es el DNI del cliente?",
+    "¿Cuál es la calle del cliente?",
+    "¿Cuál es el código postal del cliente?",
+    "¿Cuál es la población del cliente?",
+    "¿Cuál es la provincia del cliente?",
+    "¿Cuál es el nombre de la empresa comercializadora?",
+    "¿Cuál es el CIF de la comercializadora?",
+    "¿Cuál es la dirección de la comercializadora?",
+    "¿Cuál es el código postal de la comercializadora?",
+    "¿Cuál es la población de la comercializadora?",
+    "¿Cuál es la provincia de la comercializadora?",
+    "¿Cuál es el número de factura?",
+    "¿Cuál es el inicio del periodo de facturación?",
+    "¿Cuál es el fin del periodo de facturación?",
+    "¿Cuál es el importe de la factura?",
+    "¿Cuál es la fecha del cargo?",
+    "¿Cuál es el consumo en el periodo?",
+    "¿Cuál es la potencia contratada?"
 ]
 
-# Ejecutar consultas de QA
+# Ejecutar consultas de QA y almacenar las respuestas en un diccionario
+respuestas = {}
 for consulta in consultas:
     resultado_qa = procesador_qa.ejecutar_qa(consulta)
     if resultado_qa:
         print(f"Resultado de '{consulta}': {resultado_qa}")
+        respuestas[consulta] = resultado_qa
     else:
         print(f"No se pudo ejecutar la consulta de QA para: '{consulta}'")
+        respuestas[consulta] = "Respuesta no disponible"
+
+# Guardar las respuestas en un archivo JSON
+with open("respuestas.json", "w", encoding="utf-8") as f:
+    json.dump(respuestas, f, ensure_ascii=False, indent=4)
+    logging.info("Respuestas guardadas en 'respuestas.json'.")
+    print("Respuestas guardadas en 'respuestas.json'.")

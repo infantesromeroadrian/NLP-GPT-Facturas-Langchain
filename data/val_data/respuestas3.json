@@ -1,78 +1,78 @@
 {
     "0": {
         "pregunta": "\u00bfCu\u00e1l es el nombre del cliente?",
-        "respuesta": " ADRIANA ORTIZ PINEDA"
+        "respuesta": " Godoleva Saucedo Castellanos"
     },
     "1": {
         "pregunta": "\u00bfCu\u00e1l es el DNI del cliente?",
-        "respuesta": "\n\nEl DNI del cliente es 34869317Y. "
+        "respuesta": " NIF 99139968D"
     },
     "2": {
         "pregunta": "\u00bfCu\u00e1l es la calle del cliente?",
-        "respuesta": " Calle de Valencia."
+        "respuesta": " Calle Cierros, 09351 Los Ausines (Burgos)"
     },
     "3": {
         "pregunta": "\u00bfCu\u00e1l es el c\u00f3digo postal del cliente?",
-        "respuesta": " No puedo responder a esa pregunta, ya que no hay informaci\u00f3n disponible en el contexto proporcionado sobre el c\u00f3digo postal del cliente. "
+        "respuesta": " No se menciona el c\u00f3digo postal del cliente en el contexto proporcionado."
     },
     "4": {
         "pregunta": "\u00bfCu\u00e1l es la poblaci\u00f3n del cliente?",
-        "respuesta": " No se menciona la poblaci\u00f3n del cliente en el texto proporcionado."
+        "respuesta": " No se puede determinar la poblaci\u00f3n del cliente con la informaci\u00f3n proporcionada."
     },
     "5": {
         "pregunta": "\u00bfCu\u00e1l es la provincia del cliente?",
-        "respuesta": " Santa Eulalia de Oscos (Asturias)"
+        "respuesta": " La provincia del cliente no est\u00e1 especificada en el texto proporcionado. No se puede determinar la provincia del cliente con la informaci\u00f3n dada. "
     },
     "6": {
         "pregunta": "\u00bfCu\u00e1l es el nombre de la empresa comercializadora?",
-        "respuesta": " ELECTRICIDAD ELEIA S.L."
+        "respuesta": " ELECTRO SALLENT DE G\u00c1LLEGO, S.L."
     },
     "7": {
         "pregunta": "\u00bfCu\u00e1l es el CIF de la comercializadora?",
-        "respuesta": " El CIF de la comercializadora es B88181441. "
+        "respuesta": " El CIF de la comercializadora es B22216725."
     },
     "8": {
         "pregunta": "\u00bfCu\u00e1l es la direcci\u00f3n de la comercializadora?",
-        "respuesta": " La direcci\u00f3n de la comercializadora es C/ CARDENAL MARCELO SPINOLA 10, 28016 - MADRID."
+        "respuesta": " La direcci\u00f3n de la comercializadora es C/ FRANCIA, 4, 22640 - Huesca."
     },
     "9": {
         "pregunta": "\u00bfCu\u00e1l es el c\u00f3digo postal de la comercializadora?",
-        "respuesta": " 28016"
+        "respuesta": " El c\u00f3digo postal de la comercializadora es 22640."
     },
     "10": {
         "pregunta": "\u00bfCu\u00e1l es la poblaci\u00f3n de la comercializadora?",
-        "respuesta": " No puedo responder a esta pregunta ya que no se menciona la poblaci\u00f3n de la comercializadora en el texto proporcionado. "
+        "respuesta": " No se menciona la poblaci\u00f3n de la comercializadora en esta informaci\u00f3n."
     },
     "11": {
         "pregunta": "\u00bfCu\u00e1l es la provincia de la comercializadora?",
-        "respuesta": " La provincia de la comercializadora es Madrid, ya que su direcci\u00f3n est\u00e1 en Cardenal Marcelo Sp\u00ednola 10, 28016 Madrid."
+        "respuesta": " La provincia de la comercializadora es Huesca."
     },
     "12": {
         "pregunta": "\u00bfCu\u00e1l es el n\u00famero de factura?",
-        "respuesta": " N\u00ba factura Y8423563212"
+        "respuesta": " TA6286373779"
     },
     "13": {
         "pregunta": "\u00bfCu\u00e1l es el inicio del periodo de facturaci\u00f3n?",
-        "respuesta": " El inicio del periodo de facturaci\u00f3n es el 29/01/1996."
+        "respuesta": " El inicio del periodo de facturaci\u00f3n es el 08/05/1995."
     },
     "14": {
         "pregunta": "\u00bfCu\u00e1l es el fin del periodo de facturaci\u00f3n?",
-        "respuesta": " El fin del periodo de facturaci\u00f3n es el 28 de febrero de 1996."
+        "respuesta": " El fin del periodo de facturaci\u00f3n es el 07/07/1995."
     },
     "15": {
         "pregunta": "\u00bfCu\u00e1l es el importe de la factura?",
-        "respuesta": " El importe de la factura es de 148,04 \u20ac."
+        "respuesta": " 182,06 \u20ac"
     },
     "16": {
         "pregunta": "\u00bfCu\u00e1l es la fecha del cargo?",
-        "respuesta": " 04 de marzo de 1996"
+        "respuesta": " La fecha del cargo es el 09 de julio de 1995."
     },
     "17": {
         "pregunta": "\u00bfCu\u00e1l es el consumo en el periodo?",
-        "respuesta": " 464 kWh"
+        "respuesta": " No se puede determinar el consumo en el periodo solo con la informaci\u00f3n proporcionada. Se necesitar\u00eda la lectura anterior del contador para poder calcular el consumo en el periodo. "
     },
     "18": {
         "pregunta": "\u00bfCu\u00e1l es la potencia contratada?",
-        "respuesta": " La potencia contratada es de 3,34 kW."
+        "respuesta": " Seg\u00fan los datos del contrato, la potencia contratada es de 2,34 kW."
     }
 }

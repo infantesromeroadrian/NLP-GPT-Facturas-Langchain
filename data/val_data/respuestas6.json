@@ -1,0 +1,78 @@
+{
+    "0": {
+        "pregunta": "\u00bfCu\u00e1l es el nombre del cliente?",
+        "respuesta": " Osmar Padilla Noriega."
+    },
+    "1": {
+        "pregunta": "\u00bfCu\u00e1l es el DNI del cliente?",
+        "respuesta": " El DNI del cliente es 19005559S."
+    },
+    "2": {
+        "pregunta": "\u00bfCu\u00e1l es la calle del cliente?",
+        "respuesta": " Calle Casta\u00f1os."
+    },
+    "3": {
+        "pregunta": "\u00bfCu\u00e1l es el c\u00f3digo postal del cliente?",
+        "respuesta": " 45460"
+    },
+    "4": {
+        "pregunta": "\u00bfCu\u00e1l es la poblaci\u00f3n del cliente?",
+        "respuesta": "\nNo se puede determinar la poblaci\u00f3n del cliente con la informaci\u00f3n proporcionada."
+    },
+    "5": {
+        "pregunta": "\u00bfCu\u00e1l es la provincia del cliente?",
+        "respuesta": " Toledo "
+    },
+    "6": {
+        "pregunta": "\u00bfCu\u00e1l es el nombre de la empresa comercializadora?",
+        "respuesta": " La empresa comercializadora es ELECTRICA DE GUADASSUAR DISTRIBUCION SLU."
+    },
+    "7": {
+        "pregunta": "\u00bfCu\u00e1l es el CIF de la comercializadora?",
+        "respuesta": " B98194780"
+    },
+    "8": {
+        "pregunta": "\u00bfCu\u00e1l es la direcci\u00f3n de la comercializadora?",
+        "respuesta": " La direcci\u00f3n de la comercializadora es GRAN VIA, 88 46610 GUADASSUAR."
+    },
+    "9": {
+        "pregunta": "\u00bfCu\u00e1l es el c\u00f3digo postal de la comercializadora?",
+        "respuesta": " El c\u00f3digo postal de la comercializadora es 46610."
+    },
+    "10": {
+        "pregunta": "\u00bfCu\u00e1l es la poblaci\u00f3n de la comercializadora?",
+        "respuesta": " No puedo determinar la poblaci\u00f3n de la comercializadora con la informaci\u00f3n proporcionada. "
+    },
+    "11": {
+        "pregunta": "\u00bfCu\u00e1l es la provincia de la comercializadora?",
+        "respuesta": " La provincia de la comercializadora es Valencia."
+    },
+    "12": {
+        "pregunta": "\u00bfCu\u00e1l es el n\u00famero de factura?",
+        "respuesta": " CH2290010696"
+    },
+    "13": {
+        "pregunta": "\u00bfCu\u00e1l es el inicio del periodo de facturaci\u00f3n?",
+        "respuesta": " 12/02/1994"
+    },
+    "14": {
+        "pregunta": "\u00bfCu\u00e1l es el fin del periodo de facturaci\u00f3n?",
+        "respuesta": " El fin del periodo de facturaci\u00f3n es el 13 de abril de 1994."
+    },
+    "15": {
+        "pregunta": "\u00bfCu\u00e1l es el importe de la factura?",
+        "respuesta": " El importe de la factura es de 240,24 \u20ac."
+    },
+    "16": {
+        "pregunta": "\u00bfCu\u00e1l es la fecha del cargo?",
+        "respuesta": " No se especifica una fecha de cargo en el texto proporcionado. Se menciona la fecha l\u00edmite de pago, que en este caso es el 18 de abril de 1994, pero no se menciona una fecha de cargo espec\u00edfica."
+    },
+    "17": {
+        "pregunta": "\u00bfCu\u00e1l es el consumo en el periodo?",
+        "respuesta": " 910 kWh"
+    },
+    "18": {
+        "pregunta": "\u00bfCu\u00e1l es la potencia contratada?",
+        "respuesta": " No podemos determinar la potencia contratada ya que esta informaci\u00f3n no se menciona en el contexto proporcionado."
+    }
+}

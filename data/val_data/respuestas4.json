@@ -1,0 +1,78 @@
+{
+    "0": {
+        "pregunta": "\u00bfCu\u00e1l es el nombre del cliente?",
+        "respuesta": " V\u00cdCTOR MANUEL G\u00d3NGORA SAGEL"
+    },
+    "1": {
+        "pregunta": "\u00bfCu\u00e1l es el DNI del cliente?",
+        "respuesta": " NIF 18154981T"
+    },
+    "2": {
+        "pregunta": "\u00bfCu\u00e1l es la calle del cliente?",
+        "respuesta": " Calle Turia"
+    },
+    "3": {
+        "pregunta": "\u00bfCu\u00e1l es el c\u00f3digo postal del cliente?",
+        "respuesta": " 28450"
+    },
+    "4": {
+        "pregunta": "\u00bfCu\u00e1l es la poblaci\u00f3n del cliente?",
+        "respuesta": " No puedo responder a esa pregunta, ya que no hay informaci\u00f3n proporcionada en el contexto sobre la poblaci\u00f3n del cliente. "
+    },
+    "5": {
+        "pregunta": "\u00bfCu\u00e1l es la provincia del cliente?",
+        "respuesta": " No puedo responder a esa pregunta con la informaci\u00f3n proporcionada. No se menciona la provincia del cliente en el contexto, solo su direcci\u00f3n en Madrid. "
+    },
+    "6": {
+        "pregunta": "\u00bfCu\u00e1l es el nombre de la empresa comercializadora?",
+        "respuesta": " CAPITAL ENERGY COMERCIALIZADORA, S.L.U"
+    },
+    "7": {
+        "pregunta": "\u00bfCu\u00e1l es el CIF de la comercializadora?",
+        "respuesta": " El CIF de la comercializadora es B88575063."
+    },
+    "8": {
+        "pregunta": "\u00bfCu\u00e1l es la direcci\u00f3n de la comercializadora?",
+        "respuesta": " La direcci\u00f3n de la comercializadora es CALLE MARQU\u00c9S DE VILLAMAGNA N\u00ba 3 - 5\u00aa PLANTA (TORRE SERRANO), 28001 - MADRID."
+    },
+    "9": {
+        "pregunta": "\u00bfCu\u00e1l es el c\u00f3digo postal de la comercializadora?",
+        "respuesta": " 28001 - MADRID"
+    },
+    "10": {
+        "pregunta": "\u00bfCu\u00e1l es la poblaci\u00f3n de la comercializadora?",
+        "respuesta": " No se proporciona informaci\u00f3n sobre la poblaci\u00f3n de la comercializadora en el contexto dado."
+    },
+    "11": {
+        "pregunta": "\u00bfCu\u00e1l es la provincia de la comercializadora?",
+        "respuesta": " No se puede determinar la provincia de la comercializadora con la informaci\u00f3n proporcionada."
+    },
+    "12": {
+        "pregunta": "\u00bfCu\u00e1l es el n\u00famero de factura?",
+        "respuesta": " K2606329095"
+    },
+    "13": {
+        "pregunta": "\u00bfCu\u00e1l es el inicio del periodo de facturaci\u00f3n?",
+        "respuesta": " El inicio del periodo de facturaci\u00f3n es el 28 de agosto de 1998."
+    },
+    "14": {
+        "pregunta": "\u00bfCu\u00e1l es el fin del periodo de facturaci\u00f3n?",
+        "respuesta": " El fin del periodo de facturaci\u00f3n es el 27 de octubre de 1998."
+    },
+    "15": {
+        "pregunta": "\u00bfCu\u00e1l es el importe de la factura?",
+        "respuesta": " El importe de la factura es de 208,07 \u20ac."
+    },
+    "16": {
+        "pregunta": "\u00bfCu\u00e1l es la fecha del cargo?",
+        "respuesta": " La fecha del cargo es el 29 de octubre de 1998."
+    },
+    "17": {
+        "pregunta": "\u00bfCu\u00e1l es el consumo en el periodo?",
+        "respuesta": " Consumo medio bimestral: XXX kWh"
+    },
+    "18": {
+        "pregunta": "\u00bfCu\u00e1l es la potencia contratada?",
+        "respuesta": " La potencia contratada es de 4,20 kW."
+    }
+}

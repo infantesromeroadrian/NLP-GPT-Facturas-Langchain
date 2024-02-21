@@ -1,0 +1,78 @@
+{
+    "0": {
+        "pregunta": "\u00bfCu\u00e1l es el nombre del cliente?",
+        "respuesta": " El nombre del cliente es CASIANO DE LA NUEZ VELASCO."
+    },
+    "1": {
+        "pregunta": "\u00bfCu\u00e1l es el DNI del cliente?",
+        "respuesta": " 82287248X"
+    },
+    "2": {
+        "pregunta": "\u00bfCu\u00e1l es la calle del cliente?",
+        "respuesta": " La calle del cliente es Plaza de Mariana de Austria."
+    },
+    "3": {
+        "pregunta": "\u00bfCu\u00e1l es el c\u00f3digo postal del cliente?",
+        "respuesta": " 46594"
+    },
+    "4": {
+        "pregunta": "\u00bfCu\u00e1l es la poblaci\u00f3n del cliente?",
+        "respuesta": " No puedo determinar la poblaci\u00f3n del cliente ya que no hay informaci\u00f3n clara sobre su ubicaci\u00f3n en el contexto proporcionado. "
+    },
+    "5": {
+        "pregunta": "\u00bfCu\u00e1l es la provincia del cliente?",
+        "respuesta": " No se puede determinar la provincia del cliente con la informaci\u00f3n proporcionada."
+    },
+    "6": {
+        "pregunta": "\u00bfCu\u00e1l es el nombre de la empresa comercializadora?",
+        "respuesta": "\n\nLa empresa comercializadora es ENERG\u00cdA GRAFENO S.L."
+    },
+    "7": {
+        "pregunta": "\u00bfCu\u00e1l es el CIF de la comercializadora?",
+        "respuesta": " B16654188"
+    },
+    "8": {
+        "pregunta": "\u00bfCu\u00e1l es la direcci\u00f3n de la comercializadora?",
+        "respuesta": " La direcci\u00f3n de la comercializadora es Plaza de Mariana de Austria 46594 Alfara de la Baronia Valencia/Val\u00f1ncia."
+    },
+    "9": {
+        "pregunta": "\u00bfCu\u00e1l es el c\u00f3digo postal de la comercializadora?",
+        "respuesta": " No puedo responder a esa pregunta ya que no aparece informaci\u00f3n sobre el c\u00f3digo postal de la comercializadora en el contexto proporcionado. "
+    },
+    "10": {
+        "pregunta": "\u00bfCu\u00e1l es la poblaci\u00f3n de la comercializadora?",
+        "respuesta": " No puedo encontrar una respuesta a esta pregunta bas\u00e1ndome en la informaci\u00f3n proporcionada. "
+    },
+    "11": {
+        "pregunta": "\u00bfCu\u00e1l es la provincia de la comercializadora?",
+        "respuesta": " No se menciona la provincia de la comercializadora en el texto proporcionado."
+    },
+    "12": {
+        "pregunta": "\u00bfCu\u00e1l es el n\u00famero de factura?",
+        "respuesta": " OY9748999799"
+    },
+    "13": {
+        "pregunta": "\u00bfCu\u00e1l es el inicio del periodo de facturaci\u00f3n?",
+        "respuesta": " 10.05.1990"
+    },
+    "14": {
+        "pregunta": "\u00bfCu\u00e1l es el fin del periodo de facturaci\u00f3n?",
+        "respuesta": " El periodo de facturaci\u00f3n es del 10.05.1990 al 09.06.1990, por lo tanto, el fin del periodo de facturaci\u00f3n es el 09.06.1990."
+    },
+    "15": {
+        "pregunta": "\u00bfCu\u00e1l es el importe de la factura?",
+        "respuesta": " El importe de la factura es de 62,28 euros."
+    },
+    "16": {
+        "pregunta": "\u00bfCu\u00e1l es la fecha del cargo?",
+        "respuesta": " 14.06.1990"
+    },
+    "17": {
+        "pregunta": "\u00bfCu\u00e1l es el consumo en el periodo?",
+        "respuesta": " El consumo en el periodo es de 138 kWh."
+    },
+    "18": {
+        "pregunta": "\u00bfCu\u00e1l es la potencia contratada?",
+        "respuesta": " La potencia contratada es de 6,083 kW."
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "0": {
+        "pregunta": "\u00bfCu\u00e1l es el nombre del cliente?",
+        "respuesta": " N\u00c9STOR SEBALLOS REDONDO"
+    },
+    "1": {
+        "pregunta": "\u00bfCu\u00e1l es el DNI del cliente?",
+        "respuesta": " No se menciona el DNI del cliente en esta informaci\u00f3n."
+    },
+    "2": {
+        "pregunta": "\u00bfCu\u00e1l es la calle del cliente?",
+        "respuesta": " C/ EMILIO ARRIETA, 14 5\u00baC"
+    },
+    "3": {
+        "pregunta": "\u00bfCu\u00e1l es el c\u00f3digo postal del cliente?",
+        "respuesta": " 31002"
+    },
+    "4": {
+        "pregunta": "\u00bfCu\u00e1l es la poblaci\u00f3n del cliente?",
+        "respuesta": " No se puede determinar la poblaci\u00f3n del cliente ya que no se menciona en la informaci\u00f3n proporcionada. "
+    },
+    "5": {
+        "pregunta": "\u00bfCu\u00e1l es la provincia del cliente?",
+        "respuesta": " No se puede determinar la provincia del cliente con la informaci\u00f3n proporcionada. "
+    },
+    "6": {
+        "pregunta": "\u00bfCu\u00e1l es el nombre de la empresa comercializadora?",
+        "respuesta": " EMASP SOCIEDAD COOPERATIVA"
+    },
+    "7": {
+        "pregunta": "\u00bfCu\u00e1l es el CIF de la comercializadora?",
+        "respuesta": " F71235311"
+    },
+    "8": {
+        "pregunta": "\u00bfCu\u00e1l es la direcci\u00f3n de la comercializadora?",
+        "respuesta": " La direcci\u00f3n de la comercializadora es C/ EMILIO ARRIETA, 14 5\u00baC, 31002 - Navarra."
+    },
+    "9": {
+        "pregunta": "\u00bfCu\u00e1l es el c\u00f3digo postal de la comercializadora?",
+        "respuesta": " 31002"
+    },
+    "10": {
+        "pregunta": "\u00bfCu\u00e1l es la poblaci\u00f3n de la comercializadora?",
+        "respuesta": " No se puede determinar la poblaci\u00f3n de la comercializadora con la informaci\u00f3n proporcionada. La poblaci\u00f3n es una cifra que indica la cantidad de habitantes en un lugar y no se menciona en el contexto. "
+    },
+    "11": {
+        "pregunta": "\u00bfCu\u00e1l es la provincia de la comercializadora?",
+        "respuesta": " Navarra"
+    },
+    "12": {
+        "pregunta": "\u00bfCu\u00e1l es el n\u00famero de factura?",
+        "respuesta": " OK6352880034"
+    },
+    "13": {
+        "pregunta": "\u00bfCu\u00e1l es el inicio del periodo de facturaci\u00f3n?",
+        "respuesta": "\nEl inicio del periodo de facturaci\u00f3n es el 03/03/1994."
+    },
+    "14": {
+        "pregunta": "\u00bfCu\u00e1l es el fin del periodo de facturaci\u00f3n?",
+        "respuesta": " El fin del periodo de facturaci\u00f3n es el 02/04/1994."
+    },
+    "15": {
+        "pregunta": "\u00bfCu\u00e1l es el importe de la factura?",
+        "respuesta": " El importe de la factura es de 15,41 euros."
+    },
+    "16": {
+        "pregunta": "\u00bfCu\u00e1l es la fecha del cargo?",
+        "respuesta": " 07 de abril de 1994"
+    },
+    "17": {
+        "pregunta": "\u00bfCu\u00e1l es el consumo en el periodo?",
+        "respuesta": " No podemos determinar el consumo en el periodo con la informaci\u00f3n proporcionada."
+    },
+    "18": {
+        "pregunta": "\u00bfCu\u00e1l es la potencia contratada?",
+        "respuesta": " La potencia contratada es 4,085 kW."
+    }
+}
